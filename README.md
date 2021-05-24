@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yarmas
+- 👀 I’m interested in Visual Computing
+- 🌱 I’m currently learning about Mixed Reality and Matrix Theory
+- 💞️ I’m looking to collaborate on Yuzu and Vuforia applications
+- 📫 How to reach me: samuelray31@gmail.com
