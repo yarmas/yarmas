@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning about Python and API Frameworks such as React
 - 👍 I'm currently working on a News Aggregator
 - 💞️ I’m looking to collaborate on Yuzu and Vuforia applications
-- 📫 How to reach me: samuelray31@gmail.com
+- 📫 How to reach me: raysamuel2019@gmail.com
