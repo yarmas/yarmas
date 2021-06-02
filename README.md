@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @yarmas
+- 👋 Hi, I’m Samuel Ray
 - 👀 I’m interested in Visual Computing
-- 🌱 I’m currently learning about Mixed Reality and Matrix Theory
+- 🌱 I’m currently learning about Python and API Frameworks such as React
+- 👍 I'm currently working on a News Aggregator
 - 💞️ I’m looking to collaborate on Yuzu and Vuforia applications
 - 📫 How to reach me: samuelray31@gmail.com
